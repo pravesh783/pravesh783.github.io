@@ -17,11 +17,7 @@ to try out. Enjoy it :)
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
+	@Softcare
 
 	Other:
 		jQuery (jquery.com)
